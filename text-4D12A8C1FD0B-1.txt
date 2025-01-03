@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OW Digital | Professional SEO Services</title>
+    <meta name="description" content="OW Digital offers tailored SEO services to help businesses rank higher on search engine result pages. Call or email us today to boost your online presence.">
+    <meta name="keywords" content="OW Digital, SEO services, local SEO, professional SEO, digital marketing, owdigital.co.uk, SEO for fitness businesses">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <img src="logo.png" alt="OW Digital Logo" class="logo">
+            <h1>OW Digital</h1>
+            <p>Tailored SEO Services to Boost Your Business</p>
+        </div>
+    </header>
+
+    <main>
+        <section class="intro">
+            <h2>Welcome to OW Digital</h2>
+            <p>
+                At OW Digital, we specialize in providing top-notch SEO services to help businesses 
+                enhance their online visibility and achieve sustainable growth. Whether you're in 
+                the fitness industry or another niche, our tailored strategies ensure your success.
+            </p>
+        </section>
+        <section class="contact">
+            <h2>Contact Us</h2>
+            <button onclick="window.location.href='tel:+447960837050'">Call Us: +44 7960837050</button>
+            <button onclick="window.location.href='mailto:oliverwills@owdigital.co.uk'">Email Us: oliverwills@owdigital.co.uk</button>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 OW Digital | <a href="https://owdigital.co.uk">owdigital.co.uk</a></p>
+    </footer>
+</body>
+</html>
